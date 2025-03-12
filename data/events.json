@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "name": "Team Meeting",
+      "description": "Monthly team sync-up",
+      "date": "2025-03-15",
+      "time": "10:00 AM",
+      "category": "Meetings",
+      "reminder": "2025-03-15T09:30:00Z"
+    }
+  ]
+  
